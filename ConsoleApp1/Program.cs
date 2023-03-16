@@ -11,6 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("тортик");
+            Console.WriteLine("тортик из другой ветки");
+            Console.ReadKey();
         }
     }
 }
